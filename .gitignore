@@ -1,0 +1,8 @@
+build/
+.DS_Store
+__pycache__/
+# Baofeng's manual is copyrighted: download it locally (see docs/README.md), don't commit it
+docs/*.pdf
+docs/manual.txt
+# The club codeplug is not published here: download it from the W7AW codeplug page (see README.md)
+codeplug/*.data
